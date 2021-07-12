@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0214f786-96de-4d75-bbab-2e2ba6406020" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gBQJr8ZkvrkVgQWFaTf8f0jaxT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0214f786-96de-4d75-bbab-2e2ba6406020" name="Default Changelist" comment="" />
+      <created>1597585436341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597585436341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="275" key="#Project_Structure" timestamp="1597685658162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="761" y="275" key="#Project_Structure/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597685658162" />
+    <state x="1086" y="404" key="#com.intellij.ide.util.MemberChooser" timestamp="1597681167603">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="404" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597681167603" />
+    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1603913922737">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1603913922737" />
+    <state x="731" y="276" key="new project wizard" timestamp="1598733699710">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="731" y="276" key="new project wizard/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1598733699710" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1597681879361">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597681879361" />
+  </component>
+</project>
